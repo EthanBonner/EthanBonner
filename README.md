@@ -2,17 +2,17 @@
 
 I'm a passionate software developer with several years of experience in Swift and other object-oriented programming languages. My main focus is on iOS app development, leveraging the power of Swift to create intuitive and engaging user experiences.
 
-🚀 What I bring to the table:
+What I bring to the table:
 
-✨ Expertise in Swift: I have honed my skills in Swift over the years and enjoy leveraging its modern features and capabilities to build robust and efficient iOS applications.
+Expertise in Swift: I have honed my skills in Swift over the years and enjoy leveraging its modern features and capabilities to build robust and efficient iOS applications.
 
-📱 iOS Development: I have hands-on experience developing iOS apps, utilizing frameworks like UIKit, Core Data, and Core Animation to create delightful and performant user interfaces.
+📱 iOS Development: I have hands-on experience developing iOS apps, utilizing frameworks like swiftUI, Core Data, and Core Animation to create  performant user interfaces.
 
-🧩 Object-Oriented Programming: I possess a strong foundation in object-oriented programming principles, enabling me to design clean and modular code architectures and promote code reuse and maintainability.
+Object-Oriented Programming: I possess a strong foundation in object-oriented programming principles, enabling me to design clean and modular code architectures and promote code reuse and maintainability.
 
 🌐 API Integration: I am adept at working with RESTful APIs and handling network requests in iOS applications.
 
-💡 Problem-Solver: I thrive on tackling complex challenges and finding elegant solutions. I enjoy diving into debugging and troubleshooting to identify and resolve issues efficiently.
+Problem-Solver: I thrive on tackling complex challenges and finding elegant solutions. I enjoy diving into debugging and troubleshooting to identify and resolve issues efficiently.
 
 🌀 Collaborative Mindset: I believe in the power of teamwork and collaboration. I am comfortable working in Agile environments, participating in code reviews, and contributing to the growth of the development team.
 
